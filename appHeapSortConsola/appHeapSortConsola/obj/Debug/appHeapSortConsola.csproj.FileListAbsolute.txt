@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\appHeapSortConsola\appHeapSortConsola\bin\Debug\appHeapSortConsola.exe.config
+C:\Users\Usuario\source\repos\appHeapSortConsola\appHeapSortConsola\bin\Debug\appHeapSortConsola.exe
+C:\Users\Usuario\source\repos\appHeapSortConsola\appHeapSortConsola\bin\Debug\appHeapSortConsola.pdb
+C:\Users\Usuario\source\repos\appHeapSortConsola\appHeapSortConsola\obj\Debug\appHeapSortConsola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\appHeapSortConsola\appHeapSortConsola\obj\Debug\appHeapSortConsola.exe
+C:\Users\Usuario\source\repos\appHeapSortConsola\appHeapSortConsola\obj\Debug\appHeapSortConsola.pdb
+C:\Users\Usuario\source\repos\appHeapSortConsola\appHeapSortConsola\obj\Debug\appHeapSortConsola.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\appHeapSortConsola\appHeapSortConsola\obj\Debug\appHeapSortConsola.csproj.SuggestedBindingRedirects.cache
+F:\ED 2021\appHeapSortConsola\appHeapSortConsola\bin\Debug\appHeapSortConsola.exe.config
+F:\ED 2021\appHeapSortConsola\appHeapSortConsola\bin\Debug\appHeapSortConsola.exe
+F:\ED 2021\appHeapSortConsola\appHeapSortConsola\bin\Debug\appHeapSortConsola.pdb
+F:\ED 2021\appHeapSortConsola\appHeapSortConsola\obj\Debug\appHeapSortConsola.csproj.AssemblyReference.cache
+F:\ED 2021\appHeapSortConsola\appHeapSortConsola\obj\Debug\appHeapSortConsola.csproj.SuggestedBindingRedirects.cache
+F:\ED 2021\appHeapSortConsola\appHeapSortConsola\obj\Debug\appHeapSortConsola.csproj.CoreCompileInputs.cache
+F:\ED 2021\appHeapSortConsola\appHeapSortConsola\obj\Debug\appHeapSortConsola.exe
+F:\ED 2021\appHeapSortConsola\appHeapSortConsola\obj\Debug\appHeapSortConsola.pdb
